@@ -1,16 +1,8 @@
 {
-    "mapping": {
-        "retrieve-date": "/api/retrieve-date",
-        "check": "/api/check"
+    "api/retrieve-date": {
+        "latestSimChange": "2019-08-24T14:15:22Z"
     },
-    "data": {
-        "api": {
-            "retrieve-date": {
-                "latestSimChange": "2019-08-24T14:15:22Z"
-            },
-            "check": {
-                "swapped": true
-            }
-        }
+    "api/check": {
+        "swapped": true
     }
 }
